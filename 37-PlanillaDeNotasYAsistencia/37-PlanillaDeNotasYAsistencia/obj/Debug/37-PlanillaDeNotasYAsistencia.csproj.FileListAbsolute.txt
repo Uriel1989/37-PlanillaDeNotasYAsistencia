@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\37-PlanillaDeNotasYAsistencia\37-PlanillaDeNotasYAsistencia\bin\Debug\37-PlanillaDeNotasYAsistencia.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\37-PlanillaDeNotasYAsistencia\37-PlanillaDeNotasYAsistencia\bin\Debug\37-PlanillaDeNotasYAsistencia.pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\37-PlanillaDeNotasYAsistencia\37-PlanillaDeNotasYAsistencia\obj\Debug\37-PlanillaDeNotasYAsistencia.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\37-PlanillaDeNotasYAsistencia\37-PlanillaDeNotasYAsistencia\obj\Debug\37-PlanillaDeNotasYAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\37-PlanillaDeNotasYAsistencia\37-PlanillaDeNotasYAsistencia\obj\Debug\37-PlanillaDeNotasYAsistencia.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\37-PlanillaDeNotasYAsistencia\37-PlanillaDeNotasYAsistencia\obj\Debug\37-PlanillaDeNotasYAsistencia.pdb
